@@ -1,5 +1,5 @@
 ## javascript_prac
-
+Javascript, html5 등을 연습하기 
 #
 |제목|참고|
 |------|---|
